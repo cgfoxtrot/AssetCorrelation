@@ -1,7 +1,4 @@
-# AssetCorrelation
-The Asset Correlation Analyzer is a Python script designed to provide insights into the correlation and divergence between two financial assets.
-
-# Asset Correlation Analyzer
+# Asset Correlation
 
 ## Purpose
 The Asset Correlation Analyzer is a Python script designed to provide insights into the correlation and divergence between two financial assets. 
