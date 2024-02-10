@@ -37,6 +37,14 @@ The Asset Correlation Analyzer is a Python script designed to provide insights i
 
 ## Analysis Results
 
+### Example of the Program Output
+![Script Execution Screenshot](Figure_1.png)
+
+### Graph Output
+![Monthly Correlation Changes](Figure_2.png)
+
+![7 Day Correlation Changes](Figure_3.png)
+
 ### Correlation Analysis
 
 - **Daily Correlation:**
