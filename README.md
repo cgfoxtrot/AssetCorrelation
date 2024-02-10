@@ -8,8 +8,6 @@ The Asset Correlation Analyzer is a Python script designed to provide insights i
 
 ## Importance of Market Correlations
 
-Understanding market correlations is vital in financial analysis due to the following reasons:
-
 ### Diversification and Risk Management:
 
     Correlations help build diverse portfolios. Low correlations between assets can reduce overall portfolio risk.
@@ -22,19 +20,19 @@ Understanding market correlations is vital in financial analysis due to the foll
 
     Assessing correlations assists in balancing risk and return. It helps investors evaluate potential rewards against associated risks.
 
-#### Sector Rotation Strategies:
+### Sector Rotation Strategies:
 
     Correlations guide sector rotation, allowing investors to shift assets between sectors based on changing market conditions.
 
-#### Global Market Dynamics:
+### Global Market Dynamics:
 
     In a global economy, understanding correlations is crucial for navigating international markets and assessing the impact of global events.
 
-#### Commodity and Currency Analysis:
+### Commodity and Currency Analysis:
 
     Correlations in commodities and currencies are essential for commodity traders and those involved in currency exchange.
 
-#### Risk-On/Risk-Off Sentiment:
+### Risk-On/Risk-Off Sentiment:
 
     Investors categorize market environments as "risk-on" or "risk-off" based on correlations, influencing their investment decisions.
 
