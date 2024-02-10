@@ -95,16 +95,16 @@ In essence, market correlations provide actionable insights for optimizing portf
 ### Divergence Analysis
 
 - **Monthly Divergence:**
-  - Maximum Divergence: [Maximum Divergence]
-  - Average Divergence: [Average Divergence]
+  - Maximum Divergence
+  - Average Divergence
 
 - **7-Day Divergence:**
-  - Maximum Divergence: [Maximum Divergence]
-  - Average Divergence: [Average Divergence]
+  - Maximum Divergence
+  - Average Divergence
 
 - **Daily Divergence:**
-  - Maximum Divergence: [Maximum Divergence]
-  - Average Divergence: [Average Divergence]
+  - Maximum Divergence 
+  - Average Divergence
 
 ## Visualizations
 
