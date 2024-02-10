@@ -10,31 +10,31 @@ The Asset Correlation Analyzer is a Python script designed to provide insights i
 
 ### Diversification and Risk Management:
 
-    Correlations help build diverse portfolios. Low correlations between assets can reduce overall portfolio risk.
+Correlations help build diverse portfolios. Low correlations between assets can reduce overall portfolio risk.
 
 ### Predicting Trends and Sentiment:
 
-    Correlations reveal market trends and sentiments. Recognizing these patterns aids in predicting future price movements.
+Correlations reveal market trends and sentiments. Recognizing these patterns aids in predicting future price movements.
 
 ### Risk-Return Tradeoff:
 
-    Assessing correlations assists in balancing risk and return. It helps investors evaluate potential rewards against associated risks.
+Assessing correlations assists in balancing risk and return. It helps investors evaluate potential rewards against associated risks.
 
 ### Sector Rotation Strategies:
 
-    Correlations guide sector rotation, allowing investors to shift assets between sectors based on changing market conditions.
+Correlations guide sector rotation, allowing investors to shift assets between sectors based on changing market conditions.
 
 ### Global Market Dynamics:
 
-    In a global economy, understanding correlations is crucial for navigating international markets and assessing the impact of global events.
+In a global economy, understanding correlations is crucial for navigating international markets and assessing the impact of global events.
 
 ### Commodity and Currency Analysis:
 
-    Correlations in commodities and currencies are essential for commodity traders and those involved in currency exchange.
+Correlations in commodities and currencies are essential for commodity traders and those involved in currency exchange.
 
 ### Risk-On/Risk-Off Sentiment:
 
-    Investors categorize market environments as "risk-on" or "risk-off" based on correlations, influencing their investment decisions.
+Investors categorize market environments as "risk-on" or "risk-off" based on correlations, influencing their investment decisions.
 
 In essence, market correlations provide actionable insights for optimizing portfolio performance, managing risk, and making informed investment decisions. They are fundamental tools for investors, traders, and analysts seeking clarity in the interconnected world of financial markets.
 
