@@ -78,16 +78,16 @@ In essence, market correlations provide actionable insights for optimizing portf
 ### Correlation Analysis
 
 - **Daily Correlation:**
-  - Correlation Value: [Correlation Value]
-  - Interpretation: [Interpretation]
+  - Correlation Value:
+  - Interpretation:
 
 - **7-Day Correlation:**
-  - Correlation Value: [Correlation Value]
-  - Interpretation: [Interpretation]
+  - Correlation Value:
+  - Interpretation:
 
 - **Monthly Correlation:**
-  - Correlation Value: [Correlation Value]
-  - Interpretation: [Interpretation]
+  - Correlation Value:
+  - Interpretation:
 
 ### Divergence Analysis
 
